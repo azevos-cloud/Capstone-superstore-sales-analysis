@@ -1,0 +1,18 @@
+# Dataset files (add locally; avoid committing restricted data)
+train.csv
+*.csv
+
+# Python
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# OS/editor files
+.DS_Store
+Thumbs.db
+.vscode/
